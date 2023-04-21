@@ -23,7 +23,7 @@
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
